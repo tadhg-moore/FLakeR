@@ -1,3 +1,7 @@
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/aemon-j/FLakeR/workflows/R-CMD-check/badge.svg)](https://github.com/aemon-j/FLakeR/actions)
+<!-- badges: end -->
+
 FLakeR
 ====
 
